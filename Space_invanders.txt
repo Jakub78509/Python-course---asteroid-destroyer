@@ -1,0 +1,13 @@
+Název: Space invanders 
+
+Členové týmu: Jakub Procházka 
+
+Popis/návrh projektu: Každý asi hrál hru space invanders (pokud ne tady je odkaz jak hra vypadá: https://www.youtube.com/watch?v=MU4psw3ccUI ). A tuto hru chci vytvořit pomocí pythnu. Cílem hry je sestřelováním zničit mimozemšťany, kteří chtějí ovládnout Zemi. Hráč má 3 životy (tohle se může upravit ještě). Po každém zásahu mimozemským plavidlem přichází o jeden život. Hráč prohrává ze dvou důvodů: buď se mimozemšťanům podaří přistát a nebo hráč ztratí všechny 3 životy. Přičem bych tady si přidal pravidlo a to bude po nějaké určité fázi hry by se hra ukončila (což znamená, že jste hru vyhrali). Taky ve hře funguje štít, které jsou 4 objekty, které se rozpadnout pod palbou mimozemštanů. Tuto věc bych sem nepřidával a spíše bych přidal tuto věc jako životy dané lodi.
+
+Můj cíl bude vytvořit plně funkční hru, která bude rozdělena do několika fázi (phase 1 - ...). Při zničení nepřátelské lodi budeme získávat body, které budou určovat jak moc dobří jsme ve hře (score). S každou fází do, které postoupíte bude zničení lodí obtížnější. Lodě totiž budou moci taky střílet, budou se pohybovat rychlejí, bude větší počet a větší počet životů. Proto pokud nepřátelské lodě vás zasáhnou dostatečně je pro vás hra ukončena (game over) a tedy budete muset začít od začátku. Hra bude v gui (pomocí knihovny os). Bude mít grafické prostředí tedy. 
+
+Výsledkem tedy bude hru spustit a plně si ji zahrát. Knihovny, které zatím přepokládám, že budu potřebovat jsou pygames, os. Další knihovny nedokažu teďka s přesností říct, které budu potřebovat.
+
+Jelikož si přeji pracovat na tomto projektu sám tak na mě padá všechna práce
+
+
